@@ -12,8 +12,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/STATUS-Available%20for%20Work-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=4A90E2&color=2E5BBA" />
-  <img src="https://komarev.com/ghpvc/?username=fakefox&label=Profile%20Views&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/fakefox?label=Followers&style=for-the-badge&color=4A90E2" />
+  <img src="https://komarev.com/ghpvc/?username=0xanondo-07&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/0xanondo-07?label=Followers&style=for-the-badge&color=4A90E2" />
 </div>
 
 ---
@@ -25,8 +25,8 @@
 ```javascript
 const developer = {
     name: "GM Anondo",
-    username: "fakefox",
-    location: "Noakhali, Bangladesh",
+    username: "0xanondo-07",
+    location: "Noakhali, Bangladesh 🇧🇩",
     role: "Full Stack Developer",
     currentFocus: "Web Development",
     interests: ["Frontend", "Backend", "UI/UX", "Open Source"],
@@ -80,7 +80,7 @@ console.log("Welcome to my profile! Let's build something amazing! 🚀");
   <a href="mailto:gmmillat1100@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-4A90E2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/fakefox">
+  <a href="https://github.com/0xanondo-07">
     <img src="https://img.shields.io/badge/GitHub-Follow-2E5BBA?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -143,17 +143,17 @@ console.log("Welcome to my profile! Let's build something amazing! 🚀");
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=fakefox&show_icons=true&theme=blue-green&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=0xanondo-07&show_icons=true&theme=blue-green&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakefox&layout=compact&theme=blue-green&hide_border=false&langs_count=10" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xanondo-07&layout=compact&theme=blue-green&hide_border=false&langs_count=10" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakefox&theme=blue-green&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xanondo-07&theme=blue-green&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
@@ -168,7 +168,7 @@ console.log("Welcome to my profile! Let's build something amazing! 🚀");
         <div align="center">
           <br>
           <p>
-            <a href="https://github.com/fakefox?tab=repositories">
+            <a href="https://github.com/0xanondo-07?tab=repositories">
               <img src="https://img.shields.io/badge/View%20Projects-4A90E2?style=for-the-badge&logo=github&logoColor=white"/>
             </a>  
           </p>
@@ -183,7 +183,7 @@ console.log("Welcome to my profile! Let's build something amazing! 🚀");
         <div align="center">
           <br>
           <p>
-            <a href="https://github.com/fakefox?tab=repositories">
+            <a href="https://github.com/0xanondo-07?tab=repositories">
               <img src="https://img.shields.io/badge/Explore%20Code-2E5BBA?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
           </p>
@@ -202,7 +202,7 @@ console.log("Welcome to my profile! Let's build something amazing! 🚀");
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fakefox&custom_title=📊%20Contribution%20Activity&bg_color=ffffff&color=4A90E2&line=2E5BBA&point=4A90E2&area_color=E3F2FD&title_color=1E3A8A&area=true&hide_border=false" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xanondo-07&custom_title=📊%20Contribution%20Activity&bg_color=ffffff&color=4A90E2&line=2E5BBA&point=4A90E2&area_color=E3F2FD&title_color=1E3A8A&area=true&hide_border=false" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -210,7 +210,7 @@ console.log("Welcome to my profile! Let's build something amazing! 🚀");
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fakefox&theme=flat&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=0xanondo-07&theme=flat&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -250,10 +250,10 @@ console.log("Welcome to my profile! Let's build something amazing! 🚀");
 
 <div align="center">
   <p>
-    <a href="https://github.com/fakefox">
+    <a href="https://github.com/0xanondo-07">
       <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos-4A90E2?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="https://github.com/fakefox">
+    <a href="https://github.com/0xanondo-07">
       <img src="https://img.shields.io/badge/🤝%20Follow%20Me-2E5BBA?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="mailto:gmmillat1100@gmail.com">
