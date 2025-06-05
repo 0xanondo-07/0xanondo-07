@@ -99,11 +99,11 @@ console.log("Welcome to my profile! Let's build something amazing! 🚀");
 
 | Technology | Proficiency |
 |------------|-------------|
-| HTML5 | ██████████ 100% |
-| CSS3 | ██████████ 100% |
-| JavaScript | ██████████ 100% |
-| React.js | ████████░░ 85% |
-| Tailwind CSS | ███████░░░ 75% |
+| HTML5 | ██████░░░░ 65% |
+| CSS3 | █████░░░░░ 55% |
+| JavaScript | ████░░░░░░ 45% |
+| React.js | ███░░░░░░░ 35% |
+| Tailwind CSS | ███░░░░░░░ 30% |
 
 </div>
 
@@ -117,11 +117,11 @@ console.log("Welcome to my profile! Let's build something amazing! 🚀");
 
 | Technology | Proficiency |
 |------------|-------------|
-| Node.js | ██████░░░░ 65% |
-| Express.js | ██████░░░░ 60% |
-| Python | █████░░░░░ 55% |
-| MongoDB | ██████░░░░ 65% |
-| Firebase | ██████░░░░ 60% |
+| Node.js | ███░░░░░░░ 35% |
+| Express.js | ███░░░░░░░ 30% |
+| Python | ██░░░░░░░░ 25% |
+| MongoDB | ███░░░░░░░ 35% |
+| Firebase | ███░░░░░░░ 30% |
 
 </div>
 
@@ -207,13 +207,7 @@ console.log("Welcome to my profile! Let's build something amazing! 🚀");
 
 ---
 
-## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xanondo-07&theme=flat&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 🎯 Goals & Future Plans
 
