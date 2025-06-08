@@ -1,196 +1,210 @@
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,50:2E5BBA,100:1E3A8A&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Code%20Enthusiast&descSize=18&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,50:2E5BBA,100:1E3A8A&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Beginner%20Developer%20|%20Learning%20Machine%20%F0%9F%93%9A&descSize=18&descAlignY=58" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+GM+Anondo;Full+Stack+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+GM+Anondo+%F0%9F%91%8B;Beginner+Developer+%F0%9F%8C%B1;Learning+One+Bug+at+a+Time+%F0%9F%90%9E;Still+Figuring+It+Out+%F0%9F%A4%94" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400">
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-Available%20for%20Work-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=4A90E2&color=2E5BBA" />
-  <img src="https://komarev.com/ghpvc/?username=0xanondo-07&label=Profile%20Views&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/0xanondo-07?label=Followers&style=for-the-badge&color=4A90E2" />
+  <img src="https://img.shields.io/badge/STATUS-Learning%20%26%20Breaking%20Things-orange?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=4A90E2&color=2E5BBA" />
+  <img src="https://komarev.com/ghpvc/?username=0xanondo-07&label=Fellow%20Beginners&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/0xanondo-07?label=Learning%20Buddies&style=for-the-badge&color=4A90E2" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me (The Eternal Student)
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Learning" width="350" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 ```javascript
-const developer = {
+const beginnerDeveloper = {
     name: "GM Anondo",
     username: "0xanondo-07",
     location: "Noakhali, Bangladesh 🇧🇩",
-    role: "Full Stack Developer",
-    currentFocus: "Web Development",
-    interests: ["Frontend", "Backend", "UI/UX", "Open Source"],
+    role: "Beginner Developer & Professional Googler 🔍",
+    currentLevel: "Tutorial Hell Survivor 😅",
+    experienceYears: "Still counting in months 📅",
     
-    getCurrentProjects() {
+    motto: "I don't know much, but I know I don't know much! 🤷‍♂️",
+    
+    getCurrentlyLearning() {
         return [
-            "React Applications 🎯",
-            "Backend APIs 🔧", 
-            "Database Design 🏗️",
-            "Cloud Solutions 💾",
-            "Open Source Contributions ☁️"
+            "How to center a div (Day 47) 📐",
+            "Why my code works sometimes 🤔", 
+            "The difference between = and == and === 🧐",
+            "What the heck is 'this' in JavaScript 😵",
+            "How to read error messages 📖"
         ];
     },
     
     getSkillAreas() {
         return [
-            "Web Development 🌐",
-            "UI/UX Design 🎨", 
-            "Database Management 🗄️",
-            "Problem Solving 💡",
-            "Team Collaboration 🤝"
+            "Copy-Paste Engineering 🎯",
+            "Stack Overflow Navigation 🧭", 
+            "Tutorial Following 📺",
+            "Error Message Collector 📝",
+            "Enthusiasm & Determination 💪"
         ];
     },
     
-    dailyRoutine: "Code → Learn → Build → Improve 🔄"
+    dailyRoutine: "Tutorial → Code → Error → Google → Repeat 🔄",
+    
+    honestThoughts: [
+        "Wait, that actually worked? 😳",
+        "I'll understand this someday... maybe 🤞",
+        "Is it supposed to look like that? 🤨"
+    ]
 };
 
-console.log("Welcome to my profile! Let's build something amazing! 🚀");
+console.log("Hello World! (I'm so proud I can do this without looking it up!)");
 ```
 
-### 🎯 **What I'm Currently Working On:**
+### 🎯 **What I'm Currently Learning (AKA My Daily Struggles):**
 
-- 🔭 Building modern web applications with React and Node.js
-- 📚 Learning advanced backend technologies and cloud platforms  
-- 🤝 Open to collaborating on interesting projects
-- 💡 Developing solutions that make a difference
-- 📧 **Contact me:** [gmmillat1100@gmail.com](mailto:gmmillat1100@gmail.com)
+- 🌱 Building my first real projects (that actually work!)
+- 📚 Understanding why everyone says "Learn the fundamentals first"
+- 🤝 Looking for patient mentors and fellow beginners
+- 💡 Trying to solve problems without immediately running to Stack Overflow
+- 📧 **Text me if anything need:** [gmmillat1100@gmail.com](mailto:gmmillat1100@gmail.com)
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me (I Promise I'm Friendly!)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80">
 </div>
 
 <div align="center">
   <a href="https://fb.com/fake.fox.444">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-Let's%20Learn%20Together-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="mailto:gmmillat1100@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-4A90E2?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Send%20Learning%20Tips-4A90E2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/0xanondo-07">
-    <img src="https://img.shields.io/badge/GitHub-Follow-2E5BBA?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Learn%20With%20Me-2E5BBA?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ My Learning Journey (What I Know So Far)
 
-### **Frontend Development**
+### **Frontend Basics (Getting There Slowly)**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass,webpack&perline=8&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&perline=6&theme=light" />
 </div>
 
 <div align="center">
 
-| Technology | Proficiency |
-|------------|-------------|
-| HTML5 | ██████░░░░ 65% |
-| CSS3 | █████░░░░░ 55% |
-| JavaScript | ████░░░░░░ 45% |
-| React.js | ███░░░░░░░ 35% |
-| Tailwind CSS | ███░░░░░░░ 30% |
+| Technology | Learning Progress | Honest Reality |
+|------------|-------------------|----------------|
+| HTML5 | ███░░░░░░░ 30% | "I can make a webpage!" |
+| CSS3 | ██░░░░░░░░ 20% | "Still learning flexbox 😅" |
+| JavaScript | ██░░░░░░░░ 15% | "Variables are my friends" |
+| React.js | █░░░░░░░░░ 10% | "What's a component again?" |
+| Tailwind CSS | █░░░░░░░░░ 5% | "So many classes!" |
 
 </div>
 
-### **Backend Development**
+### **Backend Dreams (Future Goals)**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,mongodb,mysql,firebase,postgresql&perline=8&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql&perline=5&theme=light" />
 </div>
 
 <div align="center">
 
-| Technology | Proficiency |
-|------------|-------------|
-| Node.js | ███░░░░░░░ 35% |
-| Express.js | ███░░░░░░░ 30% |
-| Python | ██░░░░░░░░ 25% |
-| MongoDB | ███░░░░░░░ 35% |
-| Firebase | ███░░░░░░░ 30% |
+| Technology | Status | My Relationship |
+|------------|--------|-----------------|
+| Node.js | 🔜 Soon | "Looks scary but exciting!" |
+| Express.js | 📚 Learning | "Following tutorials religiously" |
+| Python | 🐍 Comfortable | "My favorite language! Actually know this one well 😊" |
+| MongoDB | 🤔 Confused | "No SQL? But how do I query?" |
+| MySQL | 📖 Reading | "Tables make sense... I think" |
 
 </div>
 
-### **Tools & Utilities**
+### **My Survival Tools**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma,photoshop,postman&perline=8&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,stackoverflow&perline=4&theme=light" />
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 My GitHub Stats (Don't Judge Too Hard!)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60">
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=0xanondo-07&show_icons=true&theme=blue-green&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=0xanondo-07&show_icons=true&theme=blue-green&hide_border=false&count_private=true&include_all_commits=true" alt="My Learning Progress" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xanondo-07&layout=compact&theme=blue-green&hide_border=false&langs_count=10" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xanondo-07&layout=compact&theme=blue-green&hide_border=false&langs_count=6" alt="Languages I'm Learning" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xanondo-07&theme=blue-green&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xanondo-07&theme=blue-green&hide_border=false" alt="My Consistency Journey" />
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 My Practice Projects (Baby Steps)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
+</div>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🌐 Web Development</h3>
+        <h3 align="center">🌐 Frontend Practice</h3>
         <div align="center">
           <br>
           <p>
             <a href="https://github.com/0xanondo-07?tab=repositories">
-              <img src="https://img.shields.io/badge/View%20Projects-4A90E2?style=for-the-badge&logo=github&logoColor=white"/>
+              <img src="https://img.shields.io/badge/See%20My%20Progress-4A90E2?style=for-the-badge&logo=github&logoColor=white"/>
             </a>  
           </p>
-          <p><strong>Specializing In:</strong></p>
-          <p>• React ⚡ Modern Web Apps</p>
-          <p>• UI/UX 🎨 User Experience</p>
-          <p>• Responsive Design 📱</p>
+          <p><strong>What I'm Building:</strong></p>
+          <p>• Simple HTML Pages 📄</p>
+          <p>• CSS Layouts (Fighting Flexbox) 📐</p>
+          <p>• Basic JavaScript Functions ⚡</p>
+          <p>• Tutorial Projects 📚</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🔧 Backend Solutions</h3>
+        <h3 align="center">🔧 Future Plans</h3>
         <div align="center">
           <br>
           <p>
             <a href="https://github.com/0xanondo-07?tab=repositories">
-              <img src="https://img.shields.io/badge/Explore%20Code-2E5BBA?style=for-the-badge&logo=github&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Coming%20Soon-2E5BBA?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
           </p>
-          <p><strong>Currently Building:</strong></p>
-          <p>• APIs & Databases 🗄️</p>
-          <p>• Server Architecture 🏗️</p>
-          <p>• Cloud Integration ☁️</p>
+          <p><strong>Dream Projects:</strong></p>
+          <p>• My First API 🚀</p>
+          <p>• A Real Database 🗄️</p>
+          <p>• Full Stack App 🏗️</p>
+          <p>• Something People Actually Use! 😄</p>
         </div>
       </td>
     </tr>
@@ -199,69 +213,124 @@ console.log("Welcome to my profile! Let's build something amazing! 🚀");
 
 ---
 
-## 📈 GitHub Activity
+## 📈 My Learning Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xanondo-07&custom_title=📊%20Contribution%20Activity&bg_color=ffffff&color=4A90E2&line=2E5BBA&point=4A90E2&area_color=E3F2FD&title_color=1E3A8A&area=true&hide_border=false" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xanondo-07&custom_title=📚%20My%20Daily%20Learning%20Journey&bg_color=ffffff&color=4A90E2&line=2E5BBA&point=4A90E2&area_color=E3F2FD&title_color=1E3A8A&area=true&hide_border=false" alt="Learning Activity Graph" />
 </div>
 
 ---
 
+## 🎓 My Learning Reality
 
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
+</div>
 
-## 🎯 Goals & Future Plans
+## 🎯 Goals & Learning Plan (Realistic Edition)
 
 ```yaml
-🎯 Current Focus:
-  ⚡ Master Full Stack Development
-  🤝 Contribute to open source projects  
-  🏗️ Build production-ready applications
-  📈 Expand backend development skills
-  🎓 Learn new technologies continuously
+🎯 Current Learning Focus:
+  📚 Master HTML & CSS fundamentals
+  ⚡ Get comfortable with JavaScript basics
+  🎨 Build 5 simple projects that actually work
+  🤔 Understand what I'm copying from Stack Overflow
+  💪 Code every day (even if it's just 30 minutes)
 
-🚀 Future Goals:
-  👥 Lead development teams
-  🌍 Create impactful software solutions
-  🎓 Mentor other developers
-  🏢 Build scalable applications
-  💡 Contribute to tech community
+🚀 Short-term Goals (Next 6 months):
+  📱 Build my first responsive website
+  🎮 Create a simple interactive game
+  📝 Make a to-do app (like everyone else!)
+  🤝 Contribute to my first open source project
+  📖 Read actual documentation (scary!)
 
-💭 Philosophy:
-  "Great code is written with passion, 
-   perfected with practice, and 
-   shared with purpose." 
+💭 My Learning Philosophy:
+  "I'm not behind, I'm just getting started.
+   Every expert was once a beginner.
+   Every pro was once an amateur.
+   Every icon was once an unknown." 
    
-   - GM Anondo
+   - GM Anondo (Future Developer)
+
+🔮 Big Dreams:
+  - Write code without immediately running to Google
+  - Help another beginner learn something
+  - Build something my friends actually want to use
+  - Get my first job as a developer
+  - Look back at this profile and smile
 ```
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🤝 Let's Learn Together! (Beginners Welcome!)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Always+open+to+new+opportunities!;Let's+build+something+amazing+together!;Ready+to+collaborate+on+your+next+project!" alt="Collaboration Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=Looking+for+study+buddies+and+mentors!;Let's+make+mistakes+and+learn+together!;Beginners+supporting+beginners!;Every+expert+was+once+a+beginner!" alt="Learning Together" />
 </div>
 
 <div align="center">
   <p>
     <a href="https://github.com/0xanondo-07">
-      <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos-4A90E2?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/⭐%20Encourage%20My%20Journey-4A90E2?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="https://github.com/0xanondo-07">
-      <img src="https://img.shields.io/badge/🤝%20Follow%20Me-2E5BBA?style=for-the-badge&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/🤝%20Learn%20Together-2E5BBA?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="mailto:gmmillat1100@gmail.com">
-      <img src="https://img.shields.io/badge/💬%20Get%20In%20Touch-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>
+      <img src="https://img.shields.io/badge/💬%20Share%20Learning%20Tips-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </p>
 </div>
 
 ---
 
+## 🎪 Fun Facts About My Learning Journey
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2E5BBA,100:4A90E2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
+  <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="250">
+</div>
+
+- 🎯 I've watched more coding tutorials than Netflix shows
+- 📚 My browser bookmarks are 90% coding resources
+- 🔥 I get excited when my code runs without errors
+- 💡 I still celebrate every small victory (like centering text!)
+- 🤔 I read the same documentation 5 times before it clicks
+- 🌙 I dream in HTML tags sometimes
+- 📱 I inspect element on every website I visit
+- 🎨 I think making a button change color on hover is magic
+
+---
+
+## 📚 What I'm Currently Studying
+
+<div align="center">
+  <table>
+    <tr>
+      <td>📖 <strong>Reading:</strong></td>
+      <td>JavaScript basics, CSS Grid, Git fundamentals</td>
+    </tr>
+    <tr>
+      <td>🎥 <strong>Watching:</strong></td>
+      <td>FreeCodeCamp, Traversy Media, The Net Ninja</td>
+    </tr>
+    <tr>
+      <td>🛠️ <strong>Practicing:</strong></td>
+      <td>FreeCodeCamp challenges, Codecademy projects</td>
+    </tr>
+    <tr>
+      <td>🎯 <strong>Next Goal:</strong></td>
+      <td>Build a portfolio website from scratch</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2E5BBA,100:4A90E2&height=120&section=footer&text=Thanks%20for%20Supporting%20My%20Journey!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
 </div>
 
 <div align="center">
-  <p><strong>⭐ Don't forget to star some repositories if you find them interesting! ⭐</strong></p>
+  <p><strong>⭐ Star my repos to encourage a beginner! ⭐</strong></p>
+  <p><em>"Every expert was once a beginner. Every pro was once an amateur!"</em> 🌱</p>
 </div>
